@@ -5,15 +5,15 @@ Use the LLamas jobs Marketplace to hire an experienced dev to found a data-drive
 
 ## Need
 
-Some of the most interesting events in all of crypto happen on Curve. Yet, understanding and using those data-stories can feel unapproachable to many — and namely newer — market partipants. 
+Some of the most interesting events in all of crypto happen on Curve. Yet, understanding and using those data-stories can feel unapproachable to many — and namely newer — market participants. 
 
-Clearly communicating the nuances and daily events of the Curve ecosystem in a compelling way showcases its vibrancy and will attract new participants and contributers. 
+Clearly communicating the nuances and daily events of the Curve ecosystem in a compelling way showcases its vibrancy and will attract new participants and contributors. 
 
 Example: the data-first graphs and content supporting the crvUSD launch have made an incredibly complex system easier to understand, use and champion.
 
 ## Proposers
 
-Hawthorne and Panda, co-founders of the LLamas ([notion.so/the-llamas](https://www.notion.so/the-llamas/0e3fa69ef54245dea74e1aa17fb86497?v=147051a45bbd41b796adedd261826c2e)), envision building a permissionless talentpool of contributers and founders within the Curve ecosystem. 
+Hawthorne and Panda, co-founders of the LLamas ([notion.so/the-llamas](https://www.notion.so/the-llamas/0e3fa69ef54245dea74e1aa17fb86497?v=147051a45bbd41b796adedd261826c2e)), envision building a permissionless talentpool of contributors and founders within the Curve ecosystem. 
 
 We are pursuing our first grant from the Curve DAO Grants Council. 
 
@@ -29,7 +29,7 @@ Now, the project is looking to engage and direct its talent toward long-term con
 
 1. Use LLamas job marketplace to engage a Dev to found the guild
 2. Begin producing as much data-driven writing and visual content as possible in 6 months—— including how-to content to better navigate the ecosystem. 
-3. Leverage the different skillsets of driven LLamas jobs market participants to tell compelling data-stories about Curve
+3. Leverage the different skill sets of driven LLamas jobs market participants to tell compelling data-stories about Curve
 4. Place content in places that will get the most traction to onboard and attract new users. 
 
 ## Documentation Management
@@ -44,10 +44,10 @@ Payable to:
 
 Signers: 
 
-Panda (LLamas)
-(CurveResearch Team)
-(Curve Team)
-(future guild founder) 
+-Panda (LLamas)
+-(CurveResearch Team)
+-(Curve Team)
+-(future guild founder) 
 
 ## Collaboration with CurveResearch Team
 Upon grant approval, the team will establish a multisig with CurveResearch members. This collaboration ensures the technical accuracy and relevance of the produced content. 

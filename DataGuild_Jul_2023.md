@@ -12,7 +12,7 @@ Clearly communicating the nuances and daily happenings of the Curve ecosystem, i
 
 Example: the data-first graphs and content supporting the crvUSD launch have made an incredibly complex system easier to understand and use.
 
-### <Feedback> Give examples of how data stories will be created.
+_Feedback Give examples of how data stories will be created._
 
 ## Proposers
 
@@ -20,12 +20,11 @@ Hawthorne and Panda, co-founders of the LLamas ([notion.so/the-llamas](https://w
 
 We are pursuing our first grant from the Curve DAO Grants Council to build this subdao.
 
-<Feedback> There is no concept of subdaos, so keep that in mind.
-<Feedback> This can be in the bottom.
+_Feedback This can be in the bottom._
 
 ## Progress
 
-<Feedback> This section talks about progress, but it is more of a Resume of The Llamas. And I think this could be expanded on a bit better: what did you do for the other DAOs?
+_Feedback This section talks about progress, but it is more of a Resume of The Llamas. And I think this could be expanded on a bit better: what did you do for the other DAOs?_
 
 So far, the LLamas job marketplace has completed work for Reserve and a series of collaborations between zkEVM Polygon and Aave, Maker (Spark), and CoW.
 
@@ -36,30 +35,30 @@ Now, the LLamas is looking to engage and direct its talent toward long-term cont
 ## Planning
 
 1. Use LLamas job marketplace to engage a dev to found the guild.
-   <Feedback> It would be cool if there was already someone you had in mind. Or at least: there should be somewhat of a guarantee that a dev will be found. Otherwise, the DAO might be sending money to the ether and let's say you never find any talent: then what? Perhaps a contingency plan is appropriate here.
+   _Feedback It would be cool if there was already someone you had in mind. Or at least: there should be somewhat of a guarantee that a dev will be found. Otherwise, the DAO might be sending money to the ether and let's say you never find any talent: then what? Perhaps a contingency plan is appropriate here._
 
 2. LLamas will present candidates to Fiddy for approval on skillset and cultural fit.
-   <Feedback> Definitely can do this, but my role would probably be at most advisory.
+   _Feedback Definitely can do this, but my role would probably be at most advisory._
 
 3. Begin producing as much data-driven writing and visual content as possible in 6 months—— including how-to content to better navigate the ecosystem, in collaboration with existing efforts.
-   <Feedback> Instead of talking about how the work will be done, it is better to lay out a concrete plan on what will be achieved. What stories can you think of? How will you nurture the role of this data stories lead?
+   _Feedback Instead of talking about how the work will be done, it is better to lay out a concrete plan on what will be achieved. What stories can you think of? How will you nurture the role of this data stories lead?_
 
 4. Leverage the different skill sets of driven LLamas job market participants to tell compelling data-stories about Curve, across multiple mediums.
-   <Feedback> This is similar to the previous point. Better to write down a list of things you would like to achieve.
+   _Feedback This is similar to the previous point. Better to write down a list of things you would like to achieve._
 
 5. Place SEO-optimized content on venues that will get the most traction to onboard and attract new users.
-   <Feedback> This is potentially very interesting. Why do you think SEO is necessary? I know its important, but the council does not. SEO sort of comes out of nowhere in the proposal. Some context would be good.
+   _Feedback This is potentially very interesting. Why do you think SEO is necessary? I know its important, but the council does not. SEO sort of comes out of nowhere in the proposal. Some context would be good._
 
 ## Documentation Management
 
 The content and visual assets will be hosted on the Jupyter notebook or Notion, open to public contributions and updates.
-<Feedback> You can discuss how this could potentially be integrated to docs.curve.fi somehow. So: a public github repo that tells data stories, that anyone can do a Pull Request to, and upon merging the pull request, the story would get automatically published to (say) notebooks.curve.fi (just making it up). Explain how this would be maintained.
+_Feedback You can discuss how this could potentially be integrated to docs.curve.fi somehow. So: a public github repo that tells data stories, that anyone can do a Pull Request to, and upon merging the pull request, the story would get automatically published to (say) notebooks.curve.fi (just making it up). Explain how this would be maintained._
 
 ## Budget
 
 10,000 USD per month for 6 months, split 75/25 between funding the guild's lead dev and the guild itself. Open to review, reworking and extension based on progress at the end of the 6 month period.
 
-<Feedback> This looks reasonable. Start small with a lead dev, expand out. But important to mention that you want to do you own bounties in here. So a full breakdown of the budget would be useful.
+_Feedback This looks reasonable. Start small with a lead dev, expand out. But important to mention that you want to do you own bounties in here. So a full breakdown of the budget would be useful._
 
 Payable to:
 
@@ -71,7 +70,7 @@ Signers:
 
 1. Hawthorne (LLamas)
 2. (CurveResearch Team)
-3. (Curve Team) <Feedback> The less the core team's presence, the better. Eventually the DAO must mature and outgrow the core devs.
+3. (Curve Team) _Feedback The less the core team's presence, the better. Eventually the DAO must mature and outgrow the core devs._
 4. (future guild founder)
 
 ## Collaboration with CurveResearch Team

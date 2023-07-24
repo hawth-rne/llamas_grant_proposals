@@ -27,13 +27,14 @@ Now, the project is looking to engage and direct its talent toward long-term con
 
 ## Planning
 
-1. Use LLamas job marketplace to engage a Dev to found the guild
-2. Begin producing as much data-driven writing and visual content as possible in 6 months—— including how-to content to better navigate the ecosystem, in collaboration with existing efforts. 
-3. Leverage the different skill sets of driven LLamas job market participants to tell compelling data-stories about Curve.
-4. Place content in places that will get the most traction to onboard and attract new users. 
+1. Use LLamas job marketplace to engage a Dev to found the guild.
+2. LLamas will present candidates to Fiddy for approval on skillset and cultural fit. 
+3. Begin producing as much data-driven writing and visual content as possible in 6 months—— including how-to content to better navigate the ecosystem, in collaboration with existing efforts.
+4. Leverage the different skill sets of driven LLamas job market participants to tell compelling data-stories about Curve.
+5. Place content in places that will get the most traction to onboard and attract new users. 
 
 ## Documentation Management
-The content and visual assets will be hosted on the Jupyter notebook, open to public contributions and updates. 
+The content and visual assets will be hosted on the Jupyter notebook or Notion, open to public contributions and updates. 
 
 ## Budget
 10,000 USD per month for 6 months, split 75/25 between funding the guild lead and the guild itself. Open to review, reworking and extension based on progress at the end of the 6 month period. 
@@ -44,10 +45,10 @@ Payable to:
 
 Signers: 
 
-1.Hawthorne (LLamas)
-2.(CurveResearch Team)
-3.(Curve Team)
-4.(future guild founder) 
+1. Hawthorne (LLamas)
+2. (CurveResearch Team)
+3. (Curve Team)
+4. (future guild founder) 
 
 ## Collaboration with CurveResearch Team
 Upon grant approval, the team will establish a multisig with CurveResearch members. This collaboration ensures the technical accuracy and relevance of the produced content. 

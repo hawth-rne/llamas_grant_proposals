@@ -5,9 +5,9 @@ Use the LLamas job marketplace to source and hire an experienced dev to found a 
 
 ## Need
 
-Some of the most interesting events in all of crypto happen on Curve. Yet, understanding these onchain daily events can feel unapproachable to many — namely, newer market participants. 
+Some of the most interesting events in all of crypto happen on Curve. Yet, understanding these onchain moments can feel unapproachable to many — namely, newer market participants. 
 
-Clearly communicating the nuances and daily events of the Curve ecosystem in a compelling way showcases its vibrancy and will attract new participants and contributors. 
+Clearly communicating the nuances and daily happenings of the Curve ecosystem, in a compelling way, showcases its vibrancy and will attract new participants and contributors. 
 
 Example: the data-first graphs and content supporting the crvUSD launch have made an incredibly complex system easier to understand and use.
 
@@ -31,7 +31,7 @@ Now, the LLamas is looking to engage and direct its talent toward long-term cont
 2. LLamas will present candidates to Fiddy for approval on skillset and cultural fit. 
 3. Begin producing as much data-driven writing and visual content as possible in 6 months—— including how-to content to better navigate the ecosystem, in collaboration with existing efforts.
 4. Leverage the different skill sets of driven LLamas job market participants to tell compelling data-stories about Curve, across multiple mediums.
-5. Place SEO-optimized content in venues that will get the most traction to onboard and attract new users. 
+5. Place SEO-optimized content on venues that will get the most traction to onboard and attract new users. 
 
 ## Documentation Management
 The content and visual assets will be hosted on the Jupyter notebook or Notion, open to public contributions and updates. 

@@ -5,7 +5,7 @@ Use the LLamas job marketplace to source and hire an experienced dev to found a 
 
 ## Need
 
-Some of the most interesting events in all of crypto happen on Curve. Yet, understanding and using those data-stories can feel unapproachable to many — and namely newer — market participants. 
+Some of the most interesting events in all of crypto happen on Curve. Yet, understanding these onchain daily events can feel unapproachable to many — namely, newer market participants. 
 
 Clearly communicating the nuances and daily events of the Curve ecosystem in a compelling way showcases its vibrancy and will attract new participants and contributors. 
 
@@ -21,23 +21,23 @@ We are pursuing our first grant from the Curve DAO Grants Council to build this 
 
 So far, the LLamas job marketplace has completed work for Reserve and a series of collaborations between zkEVM Polygon and Aave, Maker (Spark), and CoW. 
 
-We have used our platform to locate and enable driven, talented devs across multiple skillsets within our community. These projects have all been short-term in nature.
+We have used our platform to locate and engage driven, talented devs across multiple skillsets.
 
-Now, the project is looking to engage and direct its talent toward long-term contributions to Curve.  
+Now, the LLamas is looking to engage and direct its talent toward long-term contributions to Curve via creating a sustainable subdao.  
 
 ## Planning
 
-1. Use LLamas job marketplace to engage a Dev to found the guild.
+1. Use LLamas job marketplace to engage a dev to found the guild.
 2. LLamas will present candidates to Fiddy for approval on skillset and cultural fit. 
 3. Begin producing as much data-driven writing and visual content as possible in 6 months—— including how-to content to better navigate the ecosystem, in collaboration with existing efforts.
-4. Leverage the different skill sets of driven LLamas job market participants to tell compelling data-stories about Curve.
-5. Place content in places that will get the most traction to onboard and attract new users. 
+4. Leverage the different skill sets of driven LLamas job market participants to tell compelling data-stories about Curve, across multiple mediums.
+5. Place SEO-optimized content in venues that will get the most traction to onboard and attract new users. 
 
 ## Documentation Management
 The content and visual assets will be hosted on the Jupyter notebook or Notion, open to public contributions and updates. 
 
 ## Budget
-10,000 USD per month for 6 months, split 75/25 between funding the guild lead and the guild itself. Open to review, reworking and extension based on progress at the end of the 6 month period. 
+10,000 USD per month for 6 months, split 75/25 between funding the guild's lead dev and the guild itself. Open to review, reworking and extension based on progress at the end of the 6 month period. 
 
 Payable to:
 
@@ -45,6 +45,7 @@ Payable to:
 
 Signers: 
 
+[TBD]
 1. Hawthorne (LLamas)
 2. (CurveResearch Team)
 3. (Curve Team)

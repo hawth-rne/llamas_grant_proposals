@@ -44,10 +44,10 @@ Payable to:
 
 Signers: 
 
--Panda (LLamas)
--(CurveResearch Team)
--(Curve Team)
--(future guild founder) 
+1.Hawthorne (LLamas)
+2.(CurveResearch Team)
+3.(Curve Team)
+4.(future guild founder) 
 
 ## Collaboration with CurveResearch Team
 Upon grant approval, the team will establish a multisig with CurveResearch members. This collaboration ensures the technical accuracy and relevance of the produced content. 
